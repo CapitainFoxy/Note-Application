@@ -14,6 +14,6 @@ This is a simple **Note Application** written in Java. The application allows yo
 
 ### Run
 
- Run the Java files:
+ Run the Java file:
    ```bash
-   javac NoteApp.java
+   java App.java
