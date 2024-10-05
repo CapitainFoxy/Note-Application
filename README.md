@@ -1,6 +1,6 @@
 # Note Application
 
-This isa simple **Note Application** written in Java. The application allows you to create, edit, delete and list notes. You can also save your notes to a file or load them from a file.
+This is a simple **Note Application** written in Java. The application allows you to create, edit, delete and list notes. You can also save your notes to a file or load them from a file.
 
 ## Features
 
