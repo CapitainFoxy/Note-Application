@@ -18,6 +18,11 @@ This is a simple **Note Application** written in Java. The application allows yo
    ```bash
    javac App.java
    ```
+
  Run the compressed file:
-   ``bash
+   ```bash
    java App
+   ```
+#### License
+
+Show the [License](LICENSE) file
