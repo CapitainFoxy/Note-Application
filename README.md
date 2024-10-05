@@ -14,6 +14,9 @@ This is a simple **Note Application** written in Java. The application allows yo
 
 ### Run
 
- Run the Java file:
+ Compression .class:
    ```bash
-   java App.java
+   javac App.java
+ Run the compressed file:
+   ``bash
+   java App
